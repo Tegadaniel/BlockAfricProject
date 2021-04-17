@@ -1,0 +1,21 @@
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 70%;
+    display: inline-block;
+    text-align: center;
+  
+  }
+  .card-text{
+      color: white;
+  }
+  .innerCard{
+      background-color: #ff0066;
+  }
+  .afya{
+      color: red;
+  }
+  .zar{
+      color: blue;
+  }
